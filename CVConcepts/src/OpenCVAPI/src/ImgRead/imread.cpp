@@ -2,7 +2,7 @@
 
 int main()
 {
-    auto img = cv::imread("../../../DataSet/lena.jpg");
+    const auto img = cv::imread("../../../DataSet/lena.jpg");
     cv::imshow("Lena", img);
     cv::waitKey(0);
 }
