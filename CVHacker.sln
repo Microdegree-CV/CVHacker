@@ -10,33 +10,33 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CVConcepts", "CVConcepts", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LearnOpenCV", "LearnOpenCV", "{10E0F836-FC9A-E8E2-A552-612D91EC3273}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Canny", "CVConcepts\src\LearnOpenCV\CannyEdgeDetector\Canny.vcxproj", "{3E7DF20C-AA91-1ABE-7313-BE1DDFE616EF}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Canny", "CVConcepts\src\LearnOpenCV\src\CannyEdgeDetector\Canny.vcxproj", "{3E7DF20C-AA91-1ABE-7313-BE1DDFE616EF}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Core_Component", "CVConcepts\src\LearnOpenCV\Core_Component\Core_Component.vcxproj", "{40544AA3-2C22-3EA9-15B6-AECF01231A0E}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Core_Component", "CVConcepts\src\LearnOpenCV\src\Core_Component\Core_Component.vcxproj", "{40544AA3-2C22-3EA9-15B6-AECF01231A0E}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Create_Mat_Object", "CVConcepts\src\LearnOpenCV\Mat\Create_Mat_Object.vcxproj", "{103062B1-7C46-6047-C5BD-EB68311331CF}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Create_Mat_Object", "CVConcepts\src\LearnOpenCV\src\Mat\Create_Mat_Object.vcxproj", "{103062B1-7C46-6047-C5BD-EB68311331CF}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DataType", "CVConcepts\src\LearnOpenCV\DataType\DataType.vcxproj", "{21AEA27D-0D7B-FD88-3694-EB3022C03217}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DataType", "CVConcepts\src\LearnOpenCV\src\DataType\DataType.vcxproj", "{21AEA27D-0D7B-FD88-3694-EB3022C03217}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hello_OpenCV", "CVConcepts\src\LearnOpenCV\Hello_OpenCV\Hello_OpenCV.vcxproj", "{43CB7055-2F2E-00FA-D8B3-38B0C4F5CB7C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hello_OpenCV", "CVConcepts\src\LearnOpenCV\src\Hello_OpenCV\Hello_OpenCV.vcxproj", "{43CB7055-2F2E-00FA-D8B3-38B0C4F5CB7C}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Mat_Output_Format", "CVConcepts\src\LearnOpenCV\Output_Format\Mat_Output_Format.vcxproj", "{3FD13CD3-ABE7-3A69-F45E-C68A60B40BF1}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Mat_Output_Format", "CVConcepts\src\LearnOpenCV\src\Output_Format\Mat_Output_Format.vcxproj", "{3FD13CD3-ABE7-3A69-F45E-C68A60B40BF1}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PlayWithTinker", "CVConcepts\src\LearnOpenCV\PlayWithTinker\PlayWithTinker.vcxproj", "{046452E7-F031-46ED-D9C5-B613C5322252}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PlayWithTinker", "CVConcepts\src\LearnOpenCV\src\PlayWithTinker\PlayWithTinker.vcxproj", "{046452E7-F031-46ED-D9C5-B613C5322252}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ReadImgWithArgs", "CVConcepts\src\LearnOpenCV\ReadImgWithArgs\ReadImgWithArgs.vcxproj", "{C7548909-33E0-F6CD-3CF1-79C2A8FB52CE}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ReadImgWithArgs", "CVConcepts\src\LearnOpenCV\src\ReadImgWithArgs\ReadImgWithArgs.vcxproj", "{C7548909-33E0-F6CD-3CF1-79C2A8FB52CE}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Transformation", "CVConcepts\src\LearnOpenCV\Transformation\Transformation.vcxproj", "{3CF484A7-28C2-78AD-1156-E9D3FDC25412}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Transformation", "CVConcepts\src\LearnOpenCV\src\Transformation\Transformation.vcxproj", "{3CF484A7-28C2-78AD-1156-E9D3FDC25412}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VideoCapture", "CVConcepts\src\LearnOpenCV\VideoCapture\VideoCapture.vcxproj", "{50AF1D87-3C12-AD2B-E597-E5E1D1D978AE}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VideoCapture", "CVConcepts\src\LearnOpenCV\src\VideoCapture\VideoCapture.vcxproj", "{50AF1D87-3C12-AD2B-E597-E5E1D1D978AE}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pyrDown", "CVConcepts\src\LearnOpenCV\pyrDown\pyrDown.vcxproj", "{1881B0D3-8460-2F6F-8D78-BA45F9D695D0}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pyrDown", "CVConcepts\src\LearnOpenCV\src\pyrDown\pyrDown.vcxproj", "{1881B0D3-8460-2F6F-8D78-BA45F9D695D0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OpenCVAPI", "OpenCVAPI", "{B8DCB083-A4EC-5C54-0DA6-C172F9D44BED}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "001_imread", "CVConcepts\src\OpenCVAPI\001_imread.vcxproj", "{07E75695-F39E-98E2-5CA6-713E487D33D3}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ImgFilter", "CVConcepts\src\OpenCVAPI\src\ImgFilter\ImgFilter.vcxproj", "{28364165-94A0-F5DB-DDDE-A6814988D330}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "002_filters", "CVConcepts\src\OpenCVAPI\002_filters.vcxproj", "{0F9A08C4-7B4F-81B9-0444-7B9070F877BD}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ImgRead", "CVConcepts\src\OpenCVAPI\src\ImgRead\ImgRead.vcxproj", "{7ECAD3FC-EAA9-5298-F3C1-DD6E5F20B9F9}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CVHacker", "CVHacker\CVHacker.vcxproj", "{0C3E05DC-F80A-60E7-2124-4E8F0D509575}"
 EndProject
@@ -94,14 +94,14 @@ Global
 		{1881B0D3-8460-2F6F-8D78-BA45F9D695D0}.Debug|x64.Build.0 = Debug|x64
 		{1881B0D3-8460-2F6F-8D78-BA45F9D695D0}.Release|x64.ActiveCfg = Release|x64
 		{1881B0D3-8460-2F6F-8D78-BA45F9D695D0}.Release|x64.Build.0 = Release|x64
-		{07E75695-F39E-98E2-5CA6-713E487D33D3}.Debug|x64.ActiveCfg = Debug|x64
-		{07E75695-F39E-98E2-5CA6-713E487D33D3}.Debug|x64.Build.0 = Debug|x64
-		{07E75695-F39E-98E2-5CA6-713E487D33D3}.Release|x64.ActiveCfg = Release|x64
-		{07E75695-F39E-98E2-5CA6-713E487D33D3}.Release|x64.Build.0 = Release|x64
-		{0F9A08C4-7B4F-81B9-0444-7B9070F877BD}.Debug|x64.ActiveCfg = Debug|x64
-		{0F9A08C4-7B4F-81B9-0444-7B9070F877BD}.Debug|x64.Build.0 = Debug|x64
-		{0F9A08C4-7B4F-81B9-0444-7B9070F877BD}.Release|x64.ActiveCfg = Release|x64
-		{0F9A08C4-7B4F-81B9-0444-7B9070F877BD}.Release|x64.Build.0 = Release|x64
+		{28364165-94A0-F5DB-DDDE-A6814988D330}.Debug|x64.ActiveCfg = Debug|x64
+		{28364165-94A0-F5DB-DDDE-A6814988D330}.Debug|x64.Build.0 = Debug|x64
+		{28364165-94A0-F5DB-DDDE-A6814988D330}.Release|x64.ActiveCfg = Release|x64
+		{28364165-94A0-F5DB-DDDE-A6814988D330}.Release|x64.Build.0 = Release|x64
+		{7ECAD3FC-EAA9-5298-F3C1-DD6E5F20B9F9}.Debug|x64.ActiveCfg = Debug|x64
+		{7ECAD3FC-EAA9-5298-F3C1-DD6E5F20B9F9}.Debug|x64.Build.0 = Debug|x64
+		{7ECAD3FC-EAA9-5298-F3C1-DD6E5F20B9F9}.Release|x64.ActiveCfg = Release|x64
+		{7ECAD3FC-EAA9-5298-F3C1-DD6E5F20B9F9}.Release|x64.Build.0 = Release|x64
 		{0C3E05DC-F80A-60E7-2124-4E8F0D509575}.Debug|x64.ActiveCfg = Debug|x64
 		{0C3E05DC-F80A-60E7-2124-4E8F0D509575}.Debug|x64.Build.0 = Debug|x64
 		{0C3E05DC-F80A-60E7-2124-4E8F0D509575}.Release|x64.ActiveCfg = Release|x64
@@ -128,8 +128,8 @@ Global
 		{50AF1D87-3C12-AD2B-E597-E5E1D1D978AE} = {10E0F836-FC9A-E8E2-A552-612D91EC3273}
 		{1881B0D3-8460-2F6F-8D78-BA45F9D695D0} = {10E0F836-FC9A-E8E2-A552-612D91EC3273}
 		{B8DCB083-A4EC-5C54-0DA6-C172F9D44BED} = {241ADC63-1013-FBB5-3945-E03A259DDAC1}
-		{07E75695-F39E-98E2-5CA6-713E487D33D3} = {B8DCB083-A4EC-5C54-0DA6-C172F9D44BED}
-		{0F9A08C4-7B4F-81B9-0444-7B9070F877BD} = {B8DCB083-A4EC-5C54-0DA6-C172F9D44BED}
+		{28364165-94A0-F5DB-DDDE-A6814988D330} = {B8DCB083-A4EC-5C54-0DA6-C172F9D44BED}
+		{7ECAD3FC-EAA9-5298-F3C1-DD6E5F20B9F9} = {B8DCB083-A4EC-5C54-0DA6-C172F9D44BED}
 		{6ACC3F23-D6AB-BEBE-DFC3-49954B222520} = {53E47842-3FC8-3998-A828-34EB942B241A}
 	EndGlobalSection
 EndGlobal

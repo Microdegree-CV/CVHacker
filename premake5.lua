@@ -38,5 +38,5 @@ group "Dependencies"
 group ""
 
 include "CVHacker"
-include "premakes/learn_opencv.lua"
-include "premakes/opencv_api_intro.lua"
+include "CVConcepts/src/OpenCVAPI"
+include "CVConcepts/src/LearnOpenCV"
